@@ -51,6 +51,11 @@ body {
     font-size: 15px;
 }
 
+#left-top-right h5 a {
+    color: inherit;
+    text-decoration: none;
+}
+
 #left-top-right h6 {
     display: none;
 }
